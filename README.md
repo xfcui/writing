@@ -9,7 +9,3 @@ An in-depth examination of core steps and their significance in effectively tack
 ## Algorithmic Thinking in Academic Writing
 
 An introduction to a structured, algorithm-inspired writing method based on the Pyramid Principle. This approach helps researchers efficiently create clear, coherent, and well-organized academic papers.
-
----
-
-Our goal is to provide readers with practical guidance and structured methodologies, empowering them to excel in both systematic problem-solving and academic communication within the field of computer science.
