@@ -1,3 +1,15 @@
 # Systematic Approaches to Academic Challenges
 
-In today's era of rapid technological advancements and exponential growth of knowledge, systematically and efficiently addressing complex challenges in academic research and engineering practice has become essential for researchers and practitioners alike. This website examines two interrelated themes: **practical problem-solving in computer science** and **algorithmic thinking to academic writing**, highlighting how systematic methodologies significantly enhance the quality of academic outputs and drive technological innovation. First, it explores the core steps and their importance in solving practical problems within computer science. Second, it introduces a structured, algorithm-inspired method for academic paper writing based on the Pyramid Principle, aimed at helping researchers efficiently produce well-organized papers. We hope this systematic synthesis and practical guidance will help readers effectively master both problem-solving and academic communication within computer science.
+In an era marked by rapid technological advancements and the exponential growth of knowledge, systematically addressing complex challenges in academic research and engineering practice is crucial. This website explores two interconnected themes:
+
+## Practical Problem-Solving in Computer Science
+
+An in-depth examination of core steps and their significance in effectively tackling practical challenges. This systematic approach not only improves solution quality but also accelerates technological innovation.
+
+## Algorithmic Thinking in Academic Writing
+
+An introduction to a structured, algorithm-inspired writing method based on the Pyramid Principle. This approach helps researchers efficiently create clear, coherent, and well-organized academic papers.
+
+---
+
+Our goal is to provide readers with practical guidance and structured methodologies, empowering them to excel in both systematic problem-solving and academic communication within the field of computer science.
